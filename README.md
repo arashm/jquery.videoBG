@@ -1,6 +1,8 @@
 jquery.videoBG 
 ==============
 
+This fork removes the video files from repo so you won't need to get 40MB of data each time doing `bower install`. Just give bower this fork https link and he knows what to do.
+
 by Syd Lawrence ( www.sydlawrence.com )
 
 Version: 0.2.1
